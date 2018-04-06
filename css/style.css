@@ -788,6 +788,12 @@
 			font-size: 2.8em;
 			font-weight: 600;
 		}
+		#logo img
+		{
+			height: 50px;
+			width: 100px;
+			padding-bottom: 0px;
+		}
 
 /*********************************************************************************/
 /* Nav                                                                           */
@@ -844,7 +850,7 @@
 	{
 		position: relative;
 		padding: 12em 0em;
-		background: url(../images/banner2.jpg) no-repeat center;
+		background: url(../images/banner3jpg) no-repeat center;
 		background-size: cover;
 		color: #fff;
 	}
